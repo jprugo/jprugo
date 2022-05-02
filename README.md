@@ -104,7 +104,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jprugos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jprugo&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/jprugo/github-readme-stats"><img alt="Jprugos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jprugo&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jprugo&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jprugo" height="192px"/>
@@ -116,29 +116,9 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/jprugo"><img alt="Jprugo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jprugo&custom_title=Jprugo's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
 
 <br/>
-
-## 🙋‍♀️ Let's Connect
-<!--
-<p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
-</p>
-
-
-<hr/>
-
-- Credit: [Candida18](https://github.com/Candida18)
-- Last Edited on: 20/07/2021
--->
