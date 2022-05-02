@@ -52,11 +52,11 @@
   </a>
    &emsp; 
   <a href="" target="_blank"> 
-   <img alt="HTML" src=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+   <img alt="HTML" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   </a> 
   &emsp; 
   <a href="" target="_blank"> 
-   <img alt="HTML" src=https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   </a>
 
 </p>
